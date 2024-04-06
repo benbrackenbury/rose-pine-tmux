@@ -1,5 +1,7 @@
 #! /usr/bin/env bash
 
+base="#191724"
+red="#ff0000"
 surface="#1f1d2e"
 overlay="#26233a"
 muted="#6e6a86"
@@ -59,7 +61,7 @@ setw "window-status-separator" ""
 setw "window-status-style" "fg=$rose,bg=default"
 setw "window-status-current-style" "fg=$love,bg=default"
 setw "window-status-activity-style" "fg=default,bg=$rose"
-set "window-status-format" "#[fg=$rose,bg=default] #I: #W "
+set "window-status-format" "#[fg=$rose,bg=$red] #I: #W "
 set "window-status-current-format" "#[fg=$love,bg=default] #I: #W "
 
 # Pane
