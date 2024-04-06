@@ -1,6 +1,6 @@
 #! /usr/bin/env bash
 
-base="#ff0000"
+base="#f7820c"
 surface="#1f1d2e"
 overlay="#26233a"
 muted="#6e6a86"
