@@ -59,7 +59,7 @@ set "status-left" "#[fg=$iris,bg=default] #S "
 setw "window-status-separator" ""
 setw "window-status-style" "fg=$rose,bg=default"
 setw "window-status-current-style" "fg=$love,bg=default"
-setw "window-status-activity-style" "fg=default,bg=$rose"
+setw "window-status-activity-style" "fg=default,bg=default"
 set "window-status-format" "#[fg=$rose,bg=default] #I: #W "
 set "window-status-current-format" "#[fg=$love,bg=default] #I: #W "
 
